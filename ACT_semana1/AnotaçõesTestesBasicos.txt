@@ -1,0 +1,12 @@
+ANOTAÇÕES
+
+***E-MAIL DE REFERENCIA***
+
+https://www.dclick.com.br/2011/12/14/testes-unitarios-com-junit-de-volta-ao-basico/
+
+***PROJETO***
+	criado testes iniciais e exemplos da semana 01 em um arquivo java (appTest)
+	criado as automações no site do google atraves do arquivo java (appTest2)
+	
+***AFAZZER****
+	criar um arquivo java para reizar testes no site referencia da semana 1 (https://the-internet.herokuapp.com/)

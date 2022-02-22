@@ -1,0 +1,25 @@
+***Anotações da semana 2 do Base2Camp da empresa base2***
+
+Conteudo sobre o git e git hub.
+	Ajudou no extensão do curso da DIO. 
+		? sugerir ao colegas do bootcamp o curso da DIO como complemento?
+
+Melhorar a estrutura de meu GITHUB
+	tornar publico os cursos realiados!!
+
+Diff - O git diff é um comando Git multiuso que, quando executado, realiza uma função de comparação nas fontes de dados Git. 
+Essas fontes de dados podem ser commits, ramificações, arquivos e outros.
+
+******PARA PESQUISAR******
+	GiT for windows
+	GITKraKen - ferramenta visual para controle de versão de maneira simplificada
+	Git direto em ferramentas de desenvolvimento;
+		Controle de Versão no VisualStudio - Como fazer?
+		Controle de Versão no IntelliJIDEA -Como fazer?
+	
+	
+	
+
+	
+
+ 
