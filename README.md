@@ -10,7 +10,7 @@
 
 * Primeiras funções basicas testes
 * Função HelloWorld
-    abrindo navegador Google e realizando automações
+    * abrindo navegador Google e realizando automações
 
 * Questoes de final de curso
 
