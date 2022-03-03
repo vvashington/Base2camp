@@ -1,2 +1,0 @@
-verificar porque nao foi possive realizar git push d um projto para dentro de seu rpositorio
-Será pq o clone e de um branch master??
