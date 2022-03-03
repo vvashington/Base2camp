@@ -1,0 +1,4 @@
+Pesquisar:
+
+Pq nao consegui subir o projeto do curso para a meu repositorio?
+Será pq eu baixei um git master dentro de outro master?
